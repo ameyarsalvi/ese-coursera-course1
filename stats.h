@@ -9,13 +9,13 @@
  *
  *****************************************************************************/
 /**
- * @file <Add File Name> 
- * @brief <Add Brief Description Here >
+ * @file <stats.h>
+ * @brief <This is the Header file for the main file for first assignment>
  *
- * <Add Extended Description Here>
+ * <File will include functions to be called out in the main file>
  *
- * @author <Add FirsName LastName>
- * @date <Add date >
+ * @author <Ameya Salvi>
+ * @date <May 10 2020 >
  *
  */
 #ifndef __STATS_H__
@@ -38,3 +38,4 @@
 
 
 #endif /* __STATS_H__ */
+
